@@ -1,0 +1,38 @@
+<annotation>
+	<folder>image dataset</folder>
+	<filename>LINE_ALBUM_Dataset_250613_237.jpg</filename>
+	<path>C:\Users\user\Desktop\image dataset\LINE_ALBUM_Dataset_250613_237.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1774</width>
+		<height>2364</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>0</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>672</ymin>
+			<xmax>1422</xmax>
+			<ymax>1439</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>0</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1344</xmin>
+			<ymin>629</ymin>
+			<xmax>1774</xmax>
+			<ymax>1132</ymax>
+		</bndbox>
+	</object>
+</annotation>

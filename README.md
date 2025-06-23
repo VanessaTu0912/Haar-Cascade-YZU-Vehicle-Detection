@@ -38,7 +38,7 @@ Installation & Setup:
   python evaluate_haar_roc.py
   This will: Compare prediction results with ground truth, plot ROC curve ,and compute AUC score
 
-📂 Folder Structure
+Folder Structure
 
 haar_tranning_project/
 │
